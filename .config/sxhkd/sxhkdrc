@@ -134,3 +134,6 @@ XF86MonBrightnessUp
 	light -A 5
 XF86MonBrightnessDown
 	light -U 5
+# Screenshot
+@Print
+	xfce4-screenshooter

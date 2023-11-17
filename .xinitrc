@@ -3,6 +3,6 @@ setxkbmap us &
 picom -b &
 dunst &
 ibus start &
-yabar &
+~/.config/polybar/launch.sh
 ~/.fehbg
 exec bspwm
